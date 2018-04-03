@@ -1,5 +1,7 @@
 # Xboost-Text-Classification
 Toxic Comment Classification Challenge Identify and classify toxic online comments - kaggle 
+# CNN-Text-Classification
+# Navibayes with Char and Word -Text-Classification
 
 
 
